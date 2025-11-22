@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Sınav Matik",
+    "slug": "sinavmatik",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e293b"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#1e293b"
+      },
+      "package": "com.yusuf.sinavmatik"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e07b14c-daec-44f0-9601-0df2eb224507"
+      }
+    }
+  }
+}
